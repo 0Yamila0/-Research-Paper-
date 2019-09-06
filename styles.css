@@ -1,27 +1,23 @@
 html,
 body {margin: 0; height: 100%;}
 
-body {background-color: rgba(0, 255, 0, 0.1);}
+body {background-color: black;}
 body{text-align: center;}
 .header {
-  background-image: url(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjTzeq7l7rkAhVimK0KHVSCAj0QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.techrepublic.com%2Fvideos%2Fvideo-the-most-tech-ready-cities-in-the-world%2F&psig=AOvVaw23ODGLXWAROJt-aCZx0kX7&ust=1567790068814352);
+  background-image: url(https://storage.googleapis.com/afs-prod/media/afs:Medium:6906200015/775.jpeg);
   height: 400px;
   background-position: center center;
 }
+#body2{color: white;}
 /* 5 Milestone */
-
+.keys{color:white;}
 h1 {color: white;
     font-size: ;}
 
 
 /* The CNC */
 
-.wrapper {
-  position: relative;
-  margin: auto;
-  padding: 0;
-  max-width: 75vw;
-}
+
 
 /* Direct Keyboard Input */
 
