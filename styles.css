@@ -2,18 +2,19 @@ html,
 body {margin: 0; height: 100%;}
 
 body {background-color: black;}
-body{text-align: center;}
+body {text-align: center;}
 .header {
   background-image: url(https://storage.googleapis.com/afs-prod/media/afs:Medium:6906200015/775.jpeg);
   height: 400px;
   background-position: center center;
 }
+h2
 #body2{color: white;}
 /* 5 Milestone */
-.keys{color:white;}
-h1 {color: white;
-    font-size: ;}
-
+.keys{color: white;}
+h1 {color: white;}
+p {color:white;}
+.mainp {color: white;}
 
 /* The CNC */
 
