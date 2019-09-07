@@ -1,34 +1,77 @@
 html,
-body {margin: 0; height: 100%;}
-
-body {background-color: black;}
-body {text-align: center;}
-.header {
-  background-image: url(https://storage.googleapis.com/afs-prod/media/afs:Medium:6906200015/775.jpeg);
-  height: 400px;
-  background-position: center center;
+body {
+  margin: 0;
+  height: 100%;
 }
-h2
-#body2{color: white;}
+
+body {
+  background-color: #f6e0b5;
+}
+
+body {
+  text-align: center;
+}
+
+.miles {
+  color: MidnightBlue;
+  font-family: Merriweather, sans-serif;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+  background-color: #ffdbdc;
+}
+
+#source {
+  text-align: center;
+}
+
+.CNC {
+  text-align: center;
+}
+
+.between {
+  background-color: gray;
+}
+
+.work {
+  text-align: left;
+}
+
+.mainp {
+  font-family: Chilanka;
+  color: #aa6f73;
+}
+
+.containerone {
+  width: 1810px;
+  margin: 50;
+  padding: 10px 25px;
+  border: 20px dotted black;
+  background: #f6e0b5;
+}
+
+#body2 {
+  width: 1800px;
+  margin: 50;
+  padding: 10px 25px;
+  border: 10px solid black;
+  background: #f6e0b6;
+}
+
+h2 {
+  font-family: Merriweather;
+  color: #66545e;
+}
+
+#body2 {
+  color: black;
+}
+
 /* 5 Milestone */
-.keys{color: white;}
-h1 {color: white;}
-p {color:white;}
-.mainp {color: white;}
-
-/* The CNC */
-
-
-
-/* Direct Keyboard Input */
-
-
-
-/* Computer Space */
-
-
-/* IBM  */
-
-
-
-/* Compactflash */
+.keys {
+  color: #3a4664;
+  font-size: 25px;
+}
