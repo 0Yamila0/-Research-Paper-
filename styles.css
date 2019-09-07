@@ -25,16 +25,13 @@ body {
 }
 
 #source {
-  text-align: center;
+  text-align: center; font-size: large;
 }
 
 .CNC {
   text-align: center;
 }
 
-.between {
-  background-color: gray;
-}
 
 .work {
   text-align: left;
@@ -42,7 +39,7 @@ body {
 
 .mainp {
   font-family: Chilanka;
-  color: #aa6f73;
+  color: #aa6f73; font-size: xx-large;
 }
 
 .containerone {
@@ -52,26 +49,32 @@ body {
   border: 20px dotted black;
   background: #f6e0b5;
 }
+.image{
+    border-width: 5px;
+    border-color: Black;
+    border-style: double;
+}
+
+
+
+
+#pls{
+  font-family: Anton, cursive;
+  color: rgb (255,255,0);
+}
 
 #body2 {
-  width: 1800px;
-  margin: 50;
-  padding: 10px 25px;
-  border: 10px solid black;
-  background: #f6e0b6;
+  background-color : #f6e0b5;
+  border-style: solid;
+  border-width: 10px;
+  border-color: brown;
+  border-bottom-style: solid;
+  border radius: 5px;
 }
 
-h2 {
-  font-family: Merriweather;
-  color: #66545e;
-}
 
-#body2 {
-  color: black;
-}
-
-/* 5 Milestone */
 .keys {
   color: #3a4664;
   font-size: 25px;
+  font-family: Merriweather;
 }
